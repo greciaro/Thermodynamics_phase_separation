@@ -1,4 +1,3 @@
-function [ A,B,C,D ] = ComputeABCD(Cplus,Zplus,Mplus,densityCplus,lastFracDensity)
 
 % Cplus = 11;
 % Zplus = 0.17178;
